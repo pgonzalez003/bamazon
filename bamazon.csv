@@ -1,0 +1,11 @@
+id,product_name,department,price,stock_quantity
+1,stapler,home/office,3,25
+2,"office phone",home/office,25,50
+3,pens,home/office,1,500
+4,lamp,"home decor",7,45
+5,"essential oil defuser",garbage,65,10
+6,razr,"cellular phone",150,200
+7,"MacBook Pro",electronics,4500,50
+8,skateboard,"sporting goods",125,35
+9,lamps,funiture,27,75
+10,"teddy bear","stuffed animal",6,45
